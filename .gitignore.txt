@@ -1,0 +1,2 @@
+secret-draft.txt
+my-memo.txt
